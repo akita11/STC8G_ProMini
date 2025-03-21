@@ -4,7 +4,7 @@
 
 <img src="https://github.com/akita11/STC8G_ProMini/blob/main/STC8G_ProMini2.jpg" width="240px">
 
-中国[STCmicro(宏晶科技)](http://www.stcmcudata.com//)の8ビットマイコンSTC8G2K322を使った、Arduino Pro Mini型のマイコンボードです。
+中国[STCmicro(宏晶科技)](https://www.stcmicro.com/)の8ビットマイコンSTC8G2K322を使った、Arduino Pro Mini型のマイコンボードです。
 主な特徴は以下のとおりです。
 
 - Arduino Pro Mini型（プログラム書き込みは、FTDI-Basicまたはその互換のUSB-シリアル変換器が必要です→[例](https://www.switch-science.com/catalog/1032/)）
@@ -43,7 +43,7 @@ STC8Gマイコンは8051コアですので、フリーから商用のものま�
 
 ### プログラムの書き込み
 
-[STCmicro](http://www.stcmcudata.com//)のWebページから、書き込みツールSTC-ISPをダウロードします。
+[STCmicro](https://www.stcmicro.com/rjxz.html)のWebページから、書き込みツールSTC-ISPをダウロードします。
 
 <img src="https://github.com/akita11/STC8G_ProMini/blob/main/STC-ISP.png" width="240px">
 
